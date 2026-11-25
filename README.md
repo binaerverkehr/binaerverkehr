@@ -50,10 +50,35 @@ Softwareentwickler & Informatikkaufmann aus Tübingen. Ich entwickle **plattform
 
 ---
 
-### Schwerpunkte & Zertifizierungen
+### Zertifizierungen
+
+<table>
+  <tr>
+    <td align="center" width="210">
+      <a href="https://verify.openedg.org">
+        <img src="./assets/pcap-badge.png" alt="PCAP – Certified Associate in Python Programming" width="76" />
+      </a><br />
+      <strong>PCAP (Python)</strong><br />
+      <sub>Python Institute · ID: <code>tD1F.1hOu.Q5cp</code></sub>
+    </td>
+    <td align="center" width="210">
+      <img src="./assets/n8n-level2-badge.png" alt="n8n Level 2 Certification" width="76" /><br />
+      <strong>n8n Level 2</strong><br />
+      <sub>n8n.io · Workflow-Automatisierung</sub>
+    </td>
+    <td align="center" width="210">
+      <img src="./assets/make-basics.png" alt="Make Basics Certification" width="76" /><br />
+      <strong>Make Basics</strong><br />
+      <sub>Make Academy · Automatisierung</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Schwerpunkte
 
 - **Desktop & Apps:** Flutter, Dart, Riverpod, Drift (SQLite), Clean Architecture
 - **Backend & Web:** Python, Django, REST-APIs, HTMX, Astro, TypeScript
 - **Automatisierung & Ops:** n8n, Docker, Linux, Coolify, Git, Testing
-- **Zertifizierungen:** PCAP *(Certified Associate in Python Programming)* · n8n Level 2 Certification
 - **Wissensvermittlung:** 11.000+ Abonnenten auf YouTube (EN & DE), Online-Kurse & Programmierunterricht
